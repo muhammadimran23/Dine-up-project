@@ -1,2 +1,3 @@
-# Dine-up-project
-Food App
+# dine_up_project
+
+A new Flutter project.

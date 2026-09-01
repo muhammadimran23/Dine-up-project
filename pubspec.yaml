@@ -1,0 +1,52 @@
+name: dine_up_project
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^11.0.0
+  flutter_svg: ^2.3.0
+  flutter_launcher_icons: ^0.14.4
+  flutter_native_splash: ^2.4.7
+  fl_chart: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter_native_splash:
+  color: "#8B0000"
+  image: assets/Dine Up.png
+
+  android: true
+  ios: true
+
+  android_12:
+    color: "#8B0000"
+    image: assets/Dine Up.png
+
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/Dine Up.png"
+  adaptive_icon_background: "#8B0000"
+  adaptive_icon_foreground: "assets/Dine Up.png"
+
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/Dine Up.png
+    - assets/google icon.svg
+    - assets/facebook icon.svg
+    - assets/person.png
+
