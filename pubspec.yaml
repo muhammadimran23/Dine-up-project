@@ -50,3 +50,9 @@ flutter:
     - assets/facebook icon.svg
     - assets/person.png
 
+  # TopSelling Items
+    - Top Selling images/margherita_pizza.png
+    - Top Selling images/zinger_burger.png
+    - Top Selling images/Alfredo pasta.png
+  
+
